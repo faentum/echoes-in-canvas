@@ -1,0 +1,13 @@
+{
+  "asset_id": "echoes_in_canvas:the_yellow_cow",
+  "height": 1,
+  "width": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.echoes_in_canvas.the_yellow_cow.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.echoes_in_canvas.the_yellow_cow.author"
+  }
+}

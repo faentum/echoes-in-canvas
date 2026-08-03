@@ -1,0 +1,13 @@
+{
+  "asset_id": "echoes_in_canvas:the_night_watch",
+  "height": 3,
+  "width": 4,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.echoes_in_canvas.the_night_watch.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.echoes_in_canvas.the_night_watch.author"
+  }
+}

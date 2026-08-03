@@ -1,0 +1,11 @@
+{
+  "_fv": 89,
+  "_type": "painting",
+  "definition": {
+    "texture": "mona_lisa",
+    "width": 16,
+    "height": 32,
+    "title": "Mona Lisa",
+    "author": "Leonardo da Vinci"
+  }
+}

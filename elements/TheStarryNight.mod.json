@@ -1,0 +1,11 @@
+{
+  "_fv": 89,
+  "_type": "painting",
+  "definition": {
+    "texture": "starry_night",
+    "width": 32,
+    "height": 32,
+    "title": "The Starry Night",
+    "author": "Vincent van Gogh"
+  }
+}

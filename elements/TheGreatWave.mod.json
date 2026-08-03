@@ -1,0 +1,11 @@
+{
+  "_fv": 89,
+  "_type": "painting",
+  "definition": {
+    "texture": "great_wave",
+    "width": 32,
+    "height": 16,
+    "title": "The Great Wave",
+    "author": "Hokusai"
+  }
+}

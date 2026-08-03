@@ -1,0 +1,13 @@
+{
+  "asset_id": "echoes_in_canvas:whistlers_mother",
+  "height": 2,
+  "width": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.echoes_in_canvas.whistlers_mother.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.echoes_in_canvas.whistlers_mother.author"
+  }
+}

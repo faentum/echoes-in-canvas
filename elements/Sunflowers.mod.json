@@ -1,0 +1,11 @@
+{
+  "_fv": 89,
+  "_type": "painting",
+  "definition": {
+    "texture": "sunflowers",
+    "width": 16,
+    "height": 32,
+    "title": "Sunflowers",
+    "author": "Vincent van Gogh"
+  }
+}

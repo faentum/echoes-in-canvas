@@ -1,0 +1,13 @@
+{
+  "asset_id": "echoes_in_canvas:the_birthof_venus",
+  "height": 2,
+  "width": 4,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.echoes_in_canvas.the_birthof_venus.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.echoes_in_canvas.the_birthof_venus.author"
+  }
+}

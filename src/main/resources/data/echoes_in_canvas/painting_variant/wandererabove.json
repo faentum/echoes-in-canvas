@@ -1,0 +1,13 @@
+{
+  "asset_id": "echoes_in_canvas:wandererabove",
+  "height": 2,
+  "width": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.echoes_in_canvas.wandererabove.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.echoes_in_canvas.wandererabove.author"
+  }
+}

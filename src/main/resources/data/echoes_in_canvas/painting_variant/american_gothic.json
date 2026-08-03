@@ -1,0 +1,13 @@
+{
+  "asset_id": "echoes_in_canvas:american_gothic",
+  "height": 2,
+  "width": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.echoes_in_canvas.american_gothic.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.echoes_in_canvas.american_gothic.author"
+  }
+}

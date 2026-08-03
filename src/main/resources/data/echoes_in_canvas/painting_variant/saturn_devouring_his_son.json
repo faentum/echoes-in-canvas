@@ -1,0 +1,13 @@
+{
+  "asset_id": "echoes_in_canvas:saturn_devouring_his_son",
+  "height": 2,
+  "width": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.echoes_in_canvas.saturn_devouring_his_son.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.echoes_in_canvas.saturn_devouring_his_son.author"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "asset_id": "echoes_in_canvas:schoolof_athens",
+  "height": 3,
+  "width": 4,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.echoes_in_canvas.schoolof_athens.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.echoes_in_canvas.schoolof_athens.author"
+  }
+}

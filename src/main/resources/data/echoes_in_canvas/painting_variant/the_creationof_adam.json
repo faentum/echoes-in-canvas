@@ -1,0 +1,13 @@
+{
+  "asset_id": "echoes_in_canvas:the_creationof_adam",
+  "height": 2,
+  "width": 4,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.echoes_in_canvas.the_creationof_adam.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.echoes_in_canvas.the_creationof_adam.author"
+  }
+}
