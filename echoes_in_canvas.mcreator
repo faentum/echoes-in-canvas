@@ -1,0 +1,283 @@
+{
+  "mod_elements": [
+    {
+      "name": "Monalisa",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "monalisa",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/monalisa.json"
+        ]
+      }
+    },
+    {
+      "name": "TheBirthofVenus",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_birthof_venus",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/the_birthof_venus.json"
+        ]
+      }
+    },
+    {
+      "name": "TheCreationofAdam",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_creationof_adam",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/the_creationof_adam.json"
+        ]
+      }
+    },
+    {
+      "name": "SchoolofAthens",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "schoolof_athens",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/schoolof_athens.json"
+        ]
+      }
+    },
+    {
+      "name": "GirlwithaPearlEarring",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "girlwitha_pearl_earring",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/girlwitha_pearl_earring.json"
+        ]
+      }
+    },
+    {
+      "name": "TheNightWatch",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_night_watch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/the_night_watch.json"
+        ]
+      }
+    },
+    {
+      "name": "TheGreatWave",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_great_wave",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/the_great_wave.json"
+        ]
+      }
+    },
+    {
+      "name": "Wandererabove",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wandererabove",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/wandererabove.json"
+        ]
+      }
+    },
+    {
+      "name": "TheStarryNight",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_starry_night",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/the_starry_night.json"
+        ]
+      }
+    },
+    {
+      "name": "Sunflowers",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sunflowers",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/sunflowers.json"
+        ]
+      }
+    },
+    {
+      "name": "TheTreacheryofImages",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_treacheryof_images",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/the_treacheryof_images.json"
+        ]
+      }
+    },
+    {
+      "name": "SaturnDevouringHisSon",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saturn_devouring_his_son",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/saturn_devouring_his_son.json"
+        ]
+      }
+    },
+    {
+      "name": "AmericanGothic",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "american_gothic",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/american_gothic.json"
+        ]
+      }
+    },
+    {
+      "name": "TheYellowCow",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_yellow_cow",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/the_yellow_cow.json"
+        ]
+      }
+    },
+    {
+      "name": "MondrianComposition",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mondrian_composition",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/mondrian_composition.json"
+        ]
+      }
+    },
+    {
+      "name": "WhistlersMother",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whistlers_mother",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/echoes_in_canvas/painting_variant/whistlers_mother.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "PAINTING_VARIANTS:minecraft:placeable": [
+      "~WhistlersMother@CUSTOM:WhistlersMother",
+      "~MondrianComposition@CUSTOM:MondrianComposition",
+      "~TheYellowCow@CUSTOM:TheYellowCow",
+      "~AmericanGothic@CUSTOM:AmericanGothic",
+      "~SaturnDevouringHisSon@CUSTOM:SaturnDevouringHisSon",
+      "~TheTreacheryofImages@CUSTOM:TheTreacheryofImages",
+      "~Sunflowers@CUSTOM:Sunflowers",
+      "~TheStarryNight@CUSTOM:TheStarryNight",
+      "~Wandererabove@CUSTOM:Wandererabove",
+      "~TheGreatWave@CUSTOM:TheGreatWave",
+      "~TheNightWatch@CUSTOM:TheNightWatch",
+      "~GirlwithaPearlEarring@CUSTOM:GirlwithaPearlEarring",
+      "~SchoolofAthens@CUSTOM:SchoolofAthens",
+      "~TheCreationofAdam@CUSTOM:TheCreationofAdam",
+      "~TheBirthofVenus@CUSTOM:TheBirthofVenus",
+      "~Monalisa@CUSTOM:Monalisa"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "painting.echoes_in_canvas.monalisa.author": "Leonardo da Vinci",
+      "painting.echoes_in_canvas.monalisa.title": "Mona Lisa",
+      "painting.echoes_in_canvas.the_birthof_venus.author": "Sandro Botticelli",
+      "painting.echoes_in_canvas.the_birthof_venus.title": "The Birth of Venus",
+      "painting.echoes_in_canvas.the_creationof_adam.title": "The Creation of Adam",
+      "painting.echoes_in_canvas.the_creationof_adam.author": "Michelangelo",
+      "painting.echoes_in_canvas.schoolof_athens.title": "School of Athens",
+      "painting.echoes_in_canvas.schoolof_athens.author": "Raphael",
+      "painting.echoes_in_canvas.girlwitha_pearl_earring.author": "Johannes Vermeer",
+      "painting.echoes_in_canvas.girlwitha_pearl_earring.title": "Girl with a Pearl Earring",
+      "painting.echoes_in_canvas.the_night_watch.author": "Rembrandt",
+      "painting.echoes_in_canvas.the_night_watch.title": "The Night Watch",
+      "painting.echoes_in_canvas.the_great_wave.author": "Hokusai",
+      "painting.echoes_in_canvas.the_great_wave.title": "The Great Wave",
+      "painting.echoes_in_canvas.wandererabove.title": "Wanderer above Sea of Fog",
+      "painting.echoes_in_canvas.wandererabove.author": "Caspar David Friedrich",
+      "painting.echoes_in_canvas.the_starry_night.author": "Vincent van Gogh",
+      "painting.echoes_in_canvas.the_starry_night.title": "The Starry Night",
+      "painting.echoes_in_canvas.sunflowers.author": "Vincent van Gogh",
+      "painting.echoes_in_canvas.sunflowers.title": "Sunflowers",
+      "painting.echoes_in_canvas.the_treacheryof_images.title": "The Treachery of Images",
+      "painting.echoes_in_canvas.the_treacheryof_images.author": "René Magritte",
+      "painting.echoes_in_canvas.saturn_devouring_his_son.author": "Francisco Goya",
+      "painting.echoes_in_canvas.saturn_devouring_his_son.title": "Saturn Devouring His Son",
+      "painting.echoes_in_canvas.american_gothic.title": "American Gothic",
+      "painting.echoes_in_canvas.american_gothic.author": "Grant Wood",
+      "painting.echoes_in_canvas.the_yellow_cow.title": "The Yellow Cow",
+      "painting.echoes_in_canvas.the_yellow_cow.author": "Franz Marc",
+      "painting.echoes_in_canvas.mondrian_composition.title": "Mondrian Composition",
+      "painting.echoes_in_canvas.mondrian_composition.author": "Piet Mondrian",
+      "painting.echoes_in_canvas.whistlers_mother.title": "Whistler\u0027s Mother",
+      "painting.echoes_in_canvas.whistlers_mother.author": "James McNeill Whistler"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/faentum/echoesincanvas/EchoesInCanvasMod.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "echoes_in_canvas",
+    "modName": "Echoes in Canvas",
+    "version": "1.0.0",
+    "author": "Faentum",
+    "websiteURL": "https://faentum.net",
+    "license": "All Rights Reserved",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-26.1.2",
+    "credits": "Faentum",
+    "modElementsPackage": "net.faentum.echoesincanvas"
+  },
+  "mcreatorVersion": 202600229418
+}
